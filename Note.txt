@@ -1,3 +1,4 @@
-This is just an simple eg of anchor scroll.
+This is just an simple example of anchor scroll.
 
+Added new line.
 Nothing much new
